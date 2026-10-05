@@ -1,0 +1,46 @@
+{
+    "movimentacoes": [
+        {
+            "data": "04/10/2026 20:46:53",
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "tipo": "Entrada",
+            "quantidade": 1
+        },
+        {
+            "data": "04/10/2026 20:47:21",
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "tipo": "Saida",
+            "quantidade": 100
+        },
+        {
+            "data": "04/10/2026 20:49:25",
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "tipo": "Saida",
+            "quantidade": 30
+        },
+        {
+            "data": "04/10/2026 20:49:37",
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "tipo": "Entrada",
+            "quantidade": 100
+        },
+        {
+            "data": "04/10/2026 20:57:26",
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "tipo": "Entrada",
+            "quantidade": 6
+        },
+        {
+            "data": "04/10/2026 20:59:25",
+            "codigoProduto": 103,
+            "descricaoProduto": "Borracha Branca",
+            "tipo": "Saida",
+            "quantidade": 6
+        }
+    ]
+}
